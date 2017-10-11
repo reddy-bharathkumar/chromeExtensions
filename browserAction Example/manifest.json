@@ -1,0 +1,16 @@
+{
+  "description": "Provides all UC4 scripting methods",
+  "manifest_version": 2,
+  "name": "UC4 - Methods",
+  "version": "1.0",
+  "homepage_url": "https://docs.automic.com/documentation/webhelp/english/ALL/components/AE/9/All%20Guides/Content/uczajy.htm",
+  "icons": {
+    "32": "icons/page-32.jpg"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "browser_action": {
+    "default_icon": "icons/page-32.jpg"
+  }
+}
