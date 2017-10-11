@@ -9,7 +9,7 @@ To add an extension to chrome:
 
 Go to chrome://extensions
 
-select the Developer Mode in the left-corner.
+select the Developer Mode in the right-top-corner.
 
 Click on "Load unpacked extension".
 
