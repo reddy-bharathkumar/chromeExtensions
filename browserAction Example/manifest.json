@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "name": "UC4 - Methods",
   "version": "1.0",
-  "homepage_url": "https://docs.automic.com/documentation/webhelp/english/ALL/components/AE/9/All%20Guides/Content/uczajy.htm",
+  "homepage_url": "https://github.com/reddy-bharathkumar/chromeExtensions/tree/master/browserAction%20Example",
   "icons": {
     "32": "icons/page-32.jpg"
   },
